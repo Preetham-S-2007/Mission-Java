@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF notes
+*.pdf
