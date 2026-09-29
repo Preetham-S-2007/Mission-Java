@@ -30,7 +30,8 @@ This repository contains my daily practice, notes, programs, and DSA problems as
 | Day 3 | User Input, Percentage Calulater, Practice-Set | ✅ |
 | Day 4 | Operators and Expressions | ✅ |
 | Day 5 | Strings and its methods | ✅ |
-| Day 6 | Coming Soon | ⏳ |
+| Day 6 | Conditionals and Switch Case | ✅ |
+| Day 7 | Coming Soon | ⏳ |
 
 ---
 
