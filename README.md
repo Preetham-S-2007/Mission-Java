@@ -31,7 +31,8 @@ This repository contains my daily practice, notes, programs, and DSA problems as
 | Day 4 | Operators and Expressions | ✅ |
 | Day 5 | Strings and its methods | ✅ |
 | Day 6 | Conditionals and Switch Case | ✅ |
-| Day 7 | Coming Soon | ⏳ |
+| Day 7 | Loops | ✅ |
+| Day 8 | Coming Soon | ⏳ |
 
 ---
 
