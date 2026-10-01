@@ -32,7 +32,8 @@ This repository contains my daily practice, notes, programs, and DSA problems as
 | Day 5 | Strings and its methods | ✅ |
 | Day 6 | Conditionals and Switch Case | ✅ |
 | Day 7 | Loops | ✅ |
-| Day 8 | Coming Soon | ⏳ |
+| Day 8 | Arrays and Multidimensional arrays | ✅ |
+| Day 9 | Coming Soon | ⏳ |
 
 ---
 
