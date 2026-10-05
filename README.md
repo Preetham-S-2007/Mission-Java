@@ -33,7 +33,8 @@ This repository contains my daily practice, notes, programs, and DSA problems as
 | Day 6 | Conditionals and Switch Case | ✅ |
 | Day 7 | Loops | ✅ |
 | Day 8 | Arrays and Multidimensional arrays | ✅ |
-| Day 9 | Coming Soon | ⏳ |
+| Day 9 | Methods, Methods-Overloading and Recursion  | ✅ |
+| Day 10| Coming Soon | ⏳ |
 
 ---
 
