@@ -34,7 +34,8 @@ This repository contains my daily practice, notes, programs, and DSA problems as
 | Day 7 | Loops | ✅ |
 | Day 8 | Arrays and Multidimensional arrays | ✅ |
 | Day 9 | Methods, Methods-Overloading and Recursion  | ✅ |
-| Day 10| Coming Soon | ⏳ |
+| Day 10| Basics of OOPs  | ✅ |
+| Day 11| Coming Soon | ⏳ |
 
 ---
 
